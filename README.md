@@ -2,7 +2,7 @@
 
 E-Basic code for exposing and using National Instruments NI-DAQmx functions in an E-Prime script.
 
-Luckily, E-Basic is a stripped down version of Visual Basic 6.0 so it's not hard to declare functions available in the 
+Luckily, E-Basic is a stripped down version of Visual Basic 6.0 so it's not hard to declare functions available in the DLL for use in experiments.
 
 ## Usage
 
