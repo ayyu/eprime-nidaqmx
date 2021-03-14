@@ -12,7 +12,7 @@ See `UserScript.vb` for an example of what to include in your E-Prime UserScript
 
 See `SampleFunctions.vb` for an example of some wrapper functions I've written in the past to make it easier to work with the declared DLL functions. You would include this in your User Script underneath the contents of the `UserScript.vb` file.
 
-I haven't included any examples of reading from the NI device but it shouldn't be very hard.
+I haven't included any examples of reading from the NI device but it shouldn't be very hard to add them. See the NI docs below.
 
 ## See also
 
